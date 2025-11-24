@@ -1,4 +1,5 @@
 Student Result Management System
+
 A beginner-friendly, menu-driven Python program to manage student results through the console. This system allows you to add new students, input marks for a fixed set of subjects, and view overall or individual results—with grades and pass/fail status automatically calculated.
 
 Features
